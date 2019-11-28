@@ -1,0 +1,332 @@
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\Usuario\source\repos\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csprojResolveAssemblyReference.cache
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\DALOPERA\Desktop\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csprojAssemblyReference.cache
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CopyComplete
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Documents\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CopyComplete
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csprojResolveAssemblyReference.cache
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\DALOPERA\Desktop\Pañalera 25 noviembre\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll.config
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\PoyectoFinalPañaleraValentino.pdb
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csc.exe.config
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csc.rsp
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csi.exe.config
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\csi.rsp
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.AppContext.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Console.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.exe.config
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\vbc.rsp
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.csproj.CopyComplete
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.dll
+C:\Users\Sena\Desktop\Pañalera crud final\Pañalera 25 Crud final\PoyectoFinalPañaleraValentino\obj\Debug\PoyectoFinalPañaleraValentino.pdb
